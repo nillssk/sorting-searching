@@ -154,15 +154,15 @@ If the array is not sorted, Binary Search cannot work correctly.
 
 ### Small Array Output
 
-![1](docs/screenshots/output1.png)
+![1](../docs/screenshots/output1.png)
 
 ### Medium Array Output
 
-![2](docs/screenshots/output2.png)
+![2](../docs/screenshots/output2.png)
 
 ### Large Array Output
 
-![3](docs/screenshots/output3.png)
+![3](../docs/screenshots/output3.png)
 
 
 ---
